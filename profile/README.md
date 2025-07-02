@@ -17,6 +17,4 @@
 
 <p align="center">
   <b>Nuxt.js Full-Stack SaaS Starter Kit - Free & Open Source</b>
-  <br />
-  Modern, Production-Ready, and Developer-Friendly
 </p>
